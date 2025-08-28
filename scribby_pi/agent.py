@@ -110,9 +110,18 @@ class ScribbyAgent:
         self._log_life_event('WRITE_START', {'question': question})
 
         # 1. Generate each part of the journal entry sequentially.
+        # 1. Generate each part of the journal entry sequentially.
+        logging.info("Writer: Generating findings...")
         findings = await self.llm_client.generate_findings(question, research_notes)
+        logging.info(f"Writer: Findings generated: {findings[:100]}...")
+
+        logging.info("Writer: Generating thoughts...")
         thoughts = await self.llm_client.generate_thoughts(question, findings)
+        logging.info(f"Writer: Thoughts generated: {thoughts[:100]}...")
+
+        logging.info("Writer: Generating new sparks...")
         sparks_result = await self.llm_client.generate_new_sparks(question, thoughts)
+        logging.info(f"Writer: Sparks result received: {sparks_result}")
         
         # Check if we got the expected dictionary
         if not isinstance(sparks_result, dict) or "questions" not in sparks_result or "raw_text" not in sparks_result:
