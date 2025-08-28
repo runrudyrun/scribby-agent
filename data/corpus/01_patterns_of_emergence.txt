@@ -1,0 +1,19 @@
+Many biological systems commonly exhibit emergent behaviour. The complex behaviour of flocks of birds, colonies of ants, swarms of bees and schools of fish emerges from the interactions of the constituent parts of the respective systems.
+
+Consider an ant colony. In the absence of centralised decision making, ant colonies exhibit complex, problem solving behaviour. This behaviour emerges from the reaction of individual ants to simple chemical stimuli – from larvae, other ants, intruders, food and waste. In turn, each ant produces chemical signals, providing a stimulus that other ants respond to. From simple interactions leading to self-organisation, ant colonies have demonstrated the ability to collectively solve geometric problems, such as optimising their foraging route to and from food resources.
+
+The idea of emergence, though, isn’t confined to biological systems. It pervades all areas of science and is a manifestation of other complex interacting systems in our daily lives, such as stock markets, the connectivity of the internet, and traffic flow.
+
+In fact one can argue that the richness of the world around us emerges from the complex behaviour of many interacting components. As elegantly stated by the German scientist and engineer Jochen Fromm:
+one water molecule is not fluid
+one gold atom is not metallic
+one neuron is not conscious
+one amino acid is not alive
+
+In physics, magnetism of everyday materials emerges from the spontaneous alignment of the magnetic moment of billions of electrons. Similarly, phenomena such as superconductivity and superfluidity emerge from the cooperative flow of electrons and atoms, respectively, at temperatures close to absolute zero (-273C). On a much larger scale, the structure of the universe emerges from the gravitational attraction of stars.
+
+In chemistry, many atoms combine to form macromolecules with structures that emerge from the secondary interaction of the atoms, which determines their function in molecular biology. In turn, cells emerge from the interaction of many of these macromolecules – resulting in cell biology.
+
+Despite the ubiquity of emergent behaviour there remains no deep understanding of emergence. At each level of complexity, new laws, properties and phenomena arise and herein lies the problem. Properties describing one level of a complex system do not necessarily explain another level, despite how intrinsically connected the two may be. Understanding the emergence of the structure of molecules does not necessarily allow one to predict the emergence of cellular biology.
+
+While controlled experiments may help to identify the essential ingredients of emergent behaviour, new ways of thinking about emergence that go beyond conventional modelling of specific systems are required. These would allow us to determine unifying principles of emergent behaviour – bridging all levels of complexity. As such, understanding and harnessing the fundamental organising principles of emergence remains one of the grand challenges of science.

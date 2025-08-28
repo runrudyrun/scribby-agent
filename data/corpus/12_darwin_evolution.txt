@@ -1,0 +1,5 @@
+The Theory of Evolution by natural selection, formulated by Charles Darwin, describes how organisms evolve over generations. It starts with the premise that within a population, there is variation in physical or behavioral traits.
+
+Individuals with traits that enable them to better adapt to their environments are more likely to survive, have more offspring, and pass on those advantageous traits. This process is called natural selection, or "survival of the fittest," where "fitness" refers to an organism's ability to survive and reproduce.
+
+Over time, the traits that enable species to survive and reproduce become more frequent in the population, causing the population to change, or evolve. This process, described as "descent with modification," can lead to small changes (microevolution) or, over vast periods, the creation of entirely new species (macroevolution) from a common ancestor.
